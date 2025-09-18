@@ -6,7 +6,7 @@
 const product = {
     productName : "Sensor de humedad",
     price : 300,
-    available : true,
+    available : true
 }
 
 const speedMax = 80;
@@ -30,8 +30,9 @@ console.log("El objeto está bloqueado?", Object.isFrozen(product));
 
 let response;
 if (Object.isFrozen(product)) {
-     response = "Si";
-}else{
+  response = "Si";
+}
+else{
     response =  "No"
 }
 

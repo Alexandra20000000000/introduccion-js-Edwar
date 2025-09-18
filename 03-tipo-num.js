@@ -5,7 +5,7 @@ let result = num1 + num2;
 
 console.log(result);
 
-//En jS todos Los números tienen el mismo tratamiento, a diferencia de otros lenguajes que exigen su tipado.
+//En jS Todos Los Números Tienen el mismo tratamiento, a diferencia de otros lenguajes que exigen su tipado.
 
 let num3 = 7;
 // let num4 =5;
